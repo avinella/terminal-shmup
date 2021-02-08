@@ -1,0 +1,7 @@
+#           Quit?
+#  (Score will not be saved)
+
+#    Press ESC to return 
+#          to game
+
+#    Press ENTER to quit

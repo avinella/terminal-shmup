@@ -1,0 +1,10 @@
+#          Welcome!
+
+#     Stop the blocks from 
+#      hitting the ground
+
+#      Use WASD to move
+#  Use the up arrow to shoot
+#       Press ESC to quit
+
+#    Press ENTER to start!
